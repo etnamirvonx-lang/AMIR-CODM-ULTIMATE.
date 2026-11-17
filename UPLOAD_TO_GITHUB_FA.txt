@@ -1,0 +1,11 @@
+راهنمای آپلود با گوشی:
+1) ZIP را در گوشی Extract کن.
+2) در صفحه مخزن GitHub روی "uploading an existing file" بزن.
+3) تمام محتویات پوشه AMIR_CODM_ULTIMATE_GITHUB را آپلود کن؛ خود ZIP را به‌تنهایی آپلود نکن.
+4) پایین صفحه Commit changes را بزن و شاخه main را انتخاب کن.
+5) وارد تب Actions شو. اجرای Build AMIR CODM APK را باز کن.
+6) پس از موفقیت، پایین صفحه در بخش Artifacts فایل AMIR-CODM-ULTIMATE-APK را دانلود کن.
+7) Artifact را Extract کن و app-debug.apk را نصب کن.
+
+اگر انتخاب چند فایل سخت بود، در مرورگر گزینه Desktop site را فعال کن.
+این برنامه ابزار تشخیص DNS/TCP است؛ VPN یا کاهش‌دهنده تضمینی پینگ نیست.

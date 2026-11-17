@@ -1,0 +1,12 @@
+ساخت APK بدون نصب Android Studio با GitHub Actions
+
+1) فایل ZIP را Extract کن.
+2) یک repository جدید در GitHub بساز.
+3) همه فایل‌های داخل پوشه AMIR_CODM_ULTIMATE را در repository آپلود کن (از جمله پوشه مخفی .github).
+4) وارد تب Actions شو.
+5) Workflow با نام Build AMIR CODM APK را انتخاب کن.
+6) روی Run workflow بزن.
+7) بعد از پایان موفق، در همان اجرای Workflow بخش Artifacts فایل AMIR-CODM-ULTIMATE-debug-apk را دانلود کن.
+8) ZIP دانلودشده را باز کن و app-debug.apk را روی گوشی نصب کن.
+
+نکته: این روش APK را روی سرورهای GitHub می‌سازد و نیازی به Android Studio روی گوشی یا کامپیوترت ندارد. برای استفاده از GitHub باید حساب کاربری داشته باشی. سورس پروژه برای ساخت APK به اینترنت نیاز دارد تا ابزارهای Gradle و Android را دریافت کند.
